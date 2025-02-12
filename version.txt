@@ -1,1 +1,1 @@
-https://github.com/Bristopher/Enderbox-Slim/blob/main/mods/v0.76/mods.txt
+https://raw.githubusercontent.com/Bristopher/Enderbox-Slim/refs/heads/main/mods/v0.76/mods.txt
