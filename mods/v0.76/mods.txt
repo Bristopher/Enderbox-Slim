@@ -259,7 +259,6 @@ nemos-inventory-sorting-Forge-1.20.1-1.7.2-all.jar
 netherportalfix-forge-1.20-13.0.1.jar
 noisium-forge-2.3.0+mc1.20-1.20.1.jar
 notenoughcrashes-4.4.7+1.20.1-forge.jar
-notenoughanimations-forge-1.9.2-mc1.20.1.jar
 nyfsspiders-forge-1.20.1-2.1.1.jar
 observable-4.4.1.jar
 oculus-mc1.20.1-1.8.0.jar
